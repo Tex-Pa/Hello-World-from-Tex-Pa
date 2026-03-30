@@ -27,5 +27,3 @@ If you're looking for a motivated junior to join your team and grow with your co
 
 - **Email:** cristianbarrale@yahoo.com
 
-
-*"Starting small to build something meaningful for our territory and its people."*
