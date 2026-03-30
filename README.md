@@ -20,7 +20,7 @@ I am currently a **Tech Student** building my foundation in software development
 ---
 
 ### 📈 Current Progress
-![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tex-Pa&show_icons=true&theme=dark)
+![Cristian's GitHub Stats](https://github-readme-stats-git-masterrstp200-rstp200s-projects.vercel.app/api?username=Tex-Pa&show_icons=true&theme=dark)
 
 ### 📫 Let's Connect!
 If you're looking for a motivated junior to join your team and grow with your company, I'd love to hear from you.
