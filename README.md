@@ -18,9 +18,15 @@ I am currently a **Tech Student** building my foundation in software development
 - **Reliable & Hardworking:** Ready to take on entry-level tasks to support a team's goals.
 
 ---
+### 📊 Activity & Status
+![Last Commit](https://img.shields.io/github/last-commit/Tex-Pa/Tex-Pa?style=flat-square&color=blue&label=Last%20Update)
+![Profile Views](https://komarev.com/ghpvc/?username=Tex-Pa&color=green&style=flat-square&label=Profile%20Views)
 
-### 📈 Current Progress
-![Cristian's GitHub Stats](https://github-readme-stats-git-masterrstp200-rstp200s-projects.vercel.app/api?username=Tex-Pa&show_icons=true&theme=dark)
+---
+### 🛠 Currently Studying
+- **Foundations:** HTML5, CSS3, JavaScript
+- **Version Control:** Git & GitHub
+- **Goal:** Supporting local communities through digital tools.
 
 ### 📫 Let's Connect!
 If you're looking for a motivated junior to join your team and grow with your company, I'd love to hear from you.
